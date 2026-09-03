@@ -15,5 +15,5 @@ And then:
 
 ## On this project
 
-The example below correspond to the resulting PNG from running example.json, which is, as you notice, an example of what you can do with this program.
+The example below corresponds to the resulting PNG from running example.json, which is, as you notice, an example of what you can do with this program.
 ![Example](Example.png)
