@@ -12,3 +12,8 @@ If you’d rather run the Python file yourself, on the cloned folder of this git
 `pip install -r requirements.txt`
 And then:
 `python episode_runtime.py`
+
+## On this project
+
+The example below correspond to the resulting PNG from running example.json, which is, as you notice, an example of what you can do with this program.
+![Example](Example.png)
