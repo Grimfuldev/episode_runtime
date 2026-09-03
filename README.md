@@ -8,5 +8,7 @@ That’s it.
 Easiest way: download the exe from [Releases](https://github.com/Grimfuldev/episode_runtime/releases) and double-click it.
 
 If you’d rather run the Python file yourself, on the cloned folder of this github project:
-`pip install -r requirements.txt
-python episode_runtime.py`
+
+`pip install -r requirements.txt`
+And then:
+`python episode_runtime.py`
