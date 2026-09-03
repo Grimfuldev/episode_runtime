@@ -1,0 +1,48 @@
+{
+  "ui_colors": {
+    "bg": "#0B1220",
+    "card": "#121A2B",
+    "line": "#243049",
+    "text": "#E8EEF8",
+    "muted": "#93A0B8",
+    "accent": "#F8FAFC",
+    "zebra": "#151E30",
+    "content": "#4ADE80",
+    "other": "#FBBF24"
+  },
+  "category_colors": {
+    "Episode": "#22C55E",
+    "Flashback": "#A855F7",
+    "Resume": "#F59E0B",
+    "Music intro": "#38BDF8",
+    "Outro": "#94A3B8"
+  },
+  "category_aliases": {
+    "Episode": "E9",
+    "Flashback": "",
+    "Resume": "",
+    "Music intro": "",
+    "Outro": ""
+  },
+  "reviewed_category": "Episode",
+  "titles": {
+    "kicker": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
+    "header_left": "Episode 9",
+    "header_right": "Runtime Breakdown",
+    "subtitle_left": "23:39 full runtime",
+    "subtitle_right": "new episode vs packaging",
+    "runtime_mix": "RUNTIME MIX",
+    "category_totals": "CATEGORY TOTALS",
+    "full_timeline": "FULL TIMELINE",
+    "where_time_goes": "WHERE THE TIME GOES",
+    "footer": "Make your own Timelines: github.com/Grimfuldev/episode_runtime"
+  },
+  "timeline": "00:00 - 04:26 Resume E8\n04:27 - 05:31 E9\n05:32 - 05:48 Flashback\n05:49 - 06:44 E9\n06:45 - 06:46 Flashback\n06:47 - 06:50 E9\n06:51 - 06:58 Flashback\n06:59 - 07:55 E9\n07:56 - 09:25 Music intro\n09:26 - 10:59 E9\n11:00 - 11:06 Flashback (voiced)\n11:07 - 11:21 E9\n11:22 - 11:34 Flashback\n11:35 - 11:43 E9\n11:44 - 14:09 Flashback\n14:10 - 17:24 E9\n17:25 - 17:52 Flashback\n17:53 - 19:55 E9\n19:56 - 19:59 Flashback\n20:00 - 20:14 E9\n20:15 - 20:18 Flashback (voiced)\n20:19 - 21:28 E9\n21:29 - 23:39 Outro\n",
+  "category_order": [
+    "Episode",
+    "Flashback",
+    "Resume",
+    "Music intro",
+    "Outro"
+  ]
+}

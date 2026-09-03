@@ -1,0 +1,36 @@
+{
+  "ui_colors": {
+    "bg": "#0B1220",
+    "card": "#121A2B",
+    "line": "#243049",
+    "text": "#E8EEF8",
+    "muted": "#93A0B8",
+    "accent": "#F8FAFC",
+    "zebra": "#151E30",
+    "content": "#4ADE80",
+    "other": "#FBBF24"
+  },
+  "category_colors": {
+    "Episode": "#94A3B8"
+  },
+  "category_aliases": {
+    "Episode": ""
+  },
+  "reviewed_category": "Episode",
+  "titles": {
+    "kicker": "EpisodeTitle",
+    "header_left": "EpisodeHeader",
+    "header_right": "",
+    "subtitle_left": "EpisodeSubtitle",
+    "subtitle_right": "",
+    "runtime_mix": "RUNTIME MIX",
+    "category_totals": "CATEGORY TOTALS",
+    "full_timeline": "FULL TIMELINE",
+    "where_time_goes": "WHERE THE TIME GOES",
+    "footer": "Make your own Timelines: github.com/Grimfuldev/episode_runtime"
+  },
+  "timeline": "00:00 - 00:01 Episode\n",
+  "category_order": [
+    "Episode"
+  ]
+}
